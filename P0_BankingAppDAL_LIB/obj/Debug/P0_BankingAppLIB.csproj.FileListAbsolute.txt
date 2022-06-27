@@ -1,0 +1,6 @@
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\bin\Debug\P0_BankingAppLIB.dll
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\bin\Debug\P0_BankingAppLIB.pdb
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\obj\Debug\P0_BankingAppLIB.csproj.AssemblyReference.cache
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\obj\Debug\P0_BankingAppLIB.csproj.CoreCompileInputs.cache
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\obj\Debug\P0_BankingAppLIB.dll
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\obj\Debug\P0_BankingAppLIB.pdb

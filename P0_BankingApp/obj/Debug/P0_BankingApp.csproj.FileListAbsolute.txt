@@ -1,0 +1,12 @@
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\bin\Debug\P0_BankingApp.exe.config
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\bin\Debug\P0_BankingApp.exe
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\bin\Debug\P0_BankingApp.pdb
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\bin\Debug\P0_BankingAppLIB.pdb
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\obj\Debug\P0_BankingApp.csproj.AssemblyReference.cache
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\obj\Debug\P0_BankingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\obj\Debug\P0_BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\obj\Debug\P0_BankingApp.csproj.CopyComplete
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\obj\Debug\P0_BankingApp.exe
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\obj\Debug\P0_BankingApp.pdb
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\bin\Debug\P0_BankingAppDAL_LIB.dll
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingApp\bin\Debug\P0_BankingAppDAL_LIB.pdb

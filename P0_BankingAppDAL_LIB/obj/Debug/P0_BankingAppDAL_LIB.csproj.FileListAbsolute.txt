@@ -1,0 +1,12 @@
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\obj\Debug\P0_BankingAppDAL_LIB.csproj.AssemblyReference.cache
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\obj\Debug\P0_BankingAppDAL_LIB.csproj.CoreCompileInputs.cache
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\obj\Debug\P0_BankingAppLIB.dll
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\obj\Debug\P0_BankingAppLIB.pdb
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\bin\Debug\P0_BankingAppLIB.dll
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppLIB\bin\Debug\P0_BankingAppLIB.pdb
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppDAL_LIB\obj\Debug\P0_BankingAppDAL_LIB.csproj.AssemblyReference.cache
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppDAL_LIB\obj\Debug\P0_BankingAppDAL_LIB.csproj.CoreCompileInputs.cache
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppDAL_LIB\bin\Debug\P0_BankingAppDAL_LIB.dll
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppDAL_LIB\bin\Debug\P0_BankingAppDAL_LIB.pdb
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppDAL_LIB\obj\Debug\P0_BankingAppDAL_LIB.dll
+C:\Users\12062\Documents\Revature .NET Full Stack Dev\RevProjects\P0\VS\P0_BankingAppDAL_LIB\obj\Debug\P0_BankingAppDAL_LIB.pdb
